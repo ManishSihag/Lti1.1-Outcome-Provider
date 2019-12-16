@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^3.2.6",
+    "express": "^3.11.0",
     "ims-lti": "^3.0.2",
     "pug": "*",
     "lodash": "^4.0.0",
